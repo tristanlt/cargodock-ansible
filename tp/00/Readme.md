@@ -39,7 +39,6 @@ ansible test-server -m shell -a "uptime"
 
 ### Ressources 
 
-[Doc ansible Adhoc](https://docs.ansible.com/ansible/latest/user_guide/intro_adhoc.html)
-
-[Run your first Ansible commands](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html#copying-and-executing-modules()
+* [Doc ansible Adhoc](https://docs.ansible.com/ansible/latest/user_guide/intro_adhoc.html)
+* [Run your first Ansible commands](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html#copying-and-executing-modules)
 
