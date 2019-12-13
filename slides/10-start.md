@@ -60,6 +60,26 @@ Connexion sur : https://horizon.noocloud.space
 Mémorisez l'adresse de votre machine martyre.
 
 <!--s-->
+<!-- .slide: data-background="./assets/background-laptop.jpg" -->
+### TP 00 Mode Adhoc
+
+Commençons par récupérer les informations du TP
+```bash
+git clone https://github.com/tristanlt/cargodock-ansible.git
+cd cargodock-ansible/tp/00
+```
+*(editez le fichier inventory.ini)*
+
+Commande adhoc pour le ping
+```bash
+ansible test-server -m ping
+```
+Ça marche ? Passons en debug...
+```
+ansible -vvvv test-server -m ping
+```
+
+<!--s-->
 
 # The End.
 
