@@ -1,0 +1,11 @@
+.reveal section img { background:none; border:none; box-shadow:none; }
+
+.reveal i.fab {
+    font-family: "Font Awesome 5 Brands";
+    font-style: normal;
+}
+
+.reveal i.far {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+}
