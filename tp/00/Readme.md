@@ -1,4 +1,3 @@
-<!--
 ---
 title: CargoDock - Découvert de Ansible
 separator: <!--s-->
@@ -10,7 +9,7 @@ css:
 revealOptions:
     transition: 'fade'
 ---
--->
+
 # TP 00 Mode Adhoc
 
 Le but de cette partie est de se familiariser avec les concepts de Ansible en lançant les opérations à la main.
